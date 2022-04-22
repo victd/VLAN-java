@@ -4,8 +4,9 @@
  * GNU public license, Eclipse 2022
  *
  * programming VLAN
- * 
- * 
+ * open reports replace Crystal Reports, like Jasper Reports
+ * and BIRT reports, most integrated with Eclipse IDE
+ *
  */
 
 
