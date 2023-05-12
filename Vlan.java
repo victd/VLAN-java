@@ -8,6 +8,7 @@
  * and BIRT reports, most integrated with Eclipse IDE
  * check if there is any integration with Android Studio 
  * include notifications for Meraki upgrade windows, King West
+ * Meraki portal integration
  *
  */
 
