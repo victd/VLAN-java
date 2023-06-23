@@ -9,6 +9,7 @@
  * check if there is any integration with Android Studio 
  * include notifications for Meraki upgrade windows, King West
  * Meraki portal integration, Meraki dashboard and firewall, blockages
+ * future scope: add bindings for android app
  *
  */
 
