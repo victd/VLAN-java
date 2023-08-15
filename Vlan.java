@@ -7,7 +7,7 @@
  * open reports replace Crystal Reports, like Jasper Reports
  * and BIRT reports, most integrated with Eclipse IDE
  * check if there is any integration with Android Studio 
- * include notifications for Meraki upgrade windows, King West, G O'Malle
+ * include notifications for Meraki upgrade windows, King West, G O'Malle, open mic
  * Meraki portal integration, Meraki dashboard and firewall, blockages
  * future scope: add bindings for android app
  *
