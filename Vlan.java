@@ -10,6 +10,7 @@
  * include notifications for Meraki upgrade windows, King West, G O'Malle, open mic
  * Meraki portal integration, Meraki dashboard and firewall, blockages
  * future scope: add bindings for android app, clean up user profiles, correspondence
+ * tablets access the iis server on the web not thru vpn, only the remote apps are on vpn
  *
  */
 
